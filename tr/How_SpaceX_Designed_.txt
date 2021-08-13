@@ -1,0 +1,559 @@
+Title:	How SpaceX Designed A Heat Shield For The Largest Spacecraft Ever Built
+
+Caption Language:	English (auto-generated)
+
+URL:	https://youtu.be/-Lsbi-bVfk0
+
+Views:	526,121 views
+
+Length:	
+
+Positive Reaction:	32K
+
+Negative Reaction:	350
+
+Transcription:
+ 00:04   -    hello it's scott manley here and
+ 00:06   -    this week at spacex can truly be
+ 00:08   -    described with the word awesome
+ 00:10   -    and i'm not just using that in the sort
+ 00:12   -    of lame american way i'm talking about
+ 00:15   -    the literally filled with awe looking at
+ 00:18   -    the monstrous
+ 00:19   -    construction of starship and super heavy
+ 00:22   -    you many people are skeptical as to
+ 00:24   -    whether this thing can truly deliver
+ 00:26   -    what it works but
+ 00:27   -    it has they have stacked it for at least
+ 00:30   -    an hour
+ 00:31   -    and it is taller than the saturn v
+ 00:34   -    it is an absolute monster of a vehicle
+ 00:37   -    and yeah this was something that
+ 00:40   -    happened just in the last week they
+ 00:42   -    finished out the vehicles as much was
+ 00:44   -    as was necessary so they could be rolled
+ 00:45   -    to the pad and perform this
+ 00:47   -    fit check they have a landing structure
+ 00:50   -    or sorry a
+ 00:51   -    launch structure which consists of this
+ 00:53   -    large ring
+ 00:54   -    with like removable arms that come down
+ 00:57   -    to support
+ 00:58   -    the bottom of the vehicle um and they
+ 01:00   -    fold out
+ 01:01   -    fold back up during launch the the
+ 01:04   -    booster itself
+ 01:05   -    it rolled out with 29 engines on and
+ 01:08   -    it seemed that they fitted these engines
+ 01:10   -    overnight although
+ 01:11   -    it's clear that they weren't truly
+ 01:13   -    integrated into the vehicle because
+ 01:15   -    they're
+ 01:15   -    being taken back off now one of the
+ 01:18   -    things that we saw
+ 01:19   -    is a photograph from elon showing the
+ 01:21   -    booster from below
+ 01:23   -    and you could see that some of the
+ 01:24   -    engines had white interiors in their
+ 01:27   -    nozzles
+ 01:27   -    showing that they had never been
+ 01:29   -    test-fired now i think in theory
+ 01:31   -    they can do things where they swap out
+ 01:33   -    nozzles but
+ 01:34   -    i think they basically rolled the or
+ 01:37   -    moved the booster engines
+ 01:38   -    straight to boca chica put them on the
+ 01:41   -    booster and now they'll be taking them
+ 01:42   -    off and sending them off to mcgregor for
+ 01:44   -    actual testing and validation
+ 01:47   -    the booster also has four grid fins and
+ 01:50   -    this is the first time we've seen this
+ 01:52   -    on
+ 01:52   -    a super heavy launch vehicle
+ 01:55   -    now the falcon 9 has grid fins as well
+ 01:58   -    has four of them
+ 01:59   -    and they're arranged at 90 degree angles
+ 02:01   -    around each other and that allows them
+ 02:02   -    to
+ 02:03   -    guide the vehicle aerodynamically to its
+ 02:05   -    landing site
+ 02:07   -    but on super heavy they've made a few
+ 02:09   -    changes first of all these are
+ 02:11   -    monster like three ton stainless steel
+ 02:14   -    grid fins they're
+ 02:15   -    absolutely humongous
+ 02:18   -    secondly unlike the falcon 9 these ones
+ 02:21   -    do not fold in
+ 02:22   -    on a cent they're fixed all the way out
+ 02:24   -    they still roll left and right
+ 02:26   -    and on falcon 9 they're driven by
+ 02:27   -    hydraulics on
+ 02:29   -    super heavy they're currently driven by
+ 02:31   -    motors and batteries from tesla vehicles
+ 02:34   -    which obviously makes sense um
+ 02:38   -    the other thing is that they're not at
+ 02:39   -    90 degrees to each other they're in
+ 02:41   -    pairs
+ 02:42   -    60 degree apart opposite each other and
+ 02:45   -    that has the effect of giving them more
+ 02:47   -    control authority in one axis at the
+ 02:49   -    expense of control authority in another
+ 02:51   -    axis
+ 02:51   -    and the thing is during the descent
+ 02:54   -    it's maintaining this sort of glides
+ 02:57   -    angle
+ 02:58   -    as it's you're trying to head towards
+ 02:59   -    the target so it needs more control
+ 03:02   -    in that axis and less control at uh your
+ 03:05   -    yawing or rolling so
+ 03:07   -    i can see why they've done this and it
+ 03:09   -    makes sense
+ 03:10   -    but what i really want to talk about is
+ 03:13   -    the starship
+ 03:14   -    so this is starship number 20. a booster
+ 03:16   -    4 starship 20
+ 03:18   -    420 gold figure
+ 03:22   -    again it's the first starship where
+ 03:23   -    we've seen the three
+ 03:25   -    fixed uh vacuum engines on there and
+ 03:28   -    again some of those
+ 03:29   -    engines that we saw from below have
+ 03:32   -    white interiors
+ 03:33   -    indicating they haven't been test-fired
+ 03:35   -    they've already been taken off and i
+ 03:37   -    believe they're going to get fired soon
+ 03:39   -    more interestingly
+ 03:41   -    we got a really good look at a
+ 03:43   -    near-complete
+ 03:44   -    thermal protection system so the thermal
+ 03:46   -    protection system
+ 03:47   -    on starship is absolutely critical to
+ 03:50   -    starship
+ 03:51   -    doing what it plans starship wants to be
+ 03:54   -    a rapidly
+ 03:55   -    reusable system and it needs a thermal
+ 03:57   -    protection system
+ 03:59   -    which needs almost no maintenance so
+ 04:01   -    spacex have already developed a working
+ 04:04   -    heat shield for their dragon spacecraft
+ 04:06   -    but it is a different beast entirely the
+ 04:09   -    dragon capsule
+ 04:10   -    it returns from space lands in the water
+ 04:12   -    and then goes off to a factory to be
+ 04:15   -    refurbished and the heat shield replaced
+ 04:17   -    because they're replacing the heat
+ 04:19   -    shield
+ 04:19   -    they use an ablative heat shield they
+ 04:21   -    use something called
+ 04:22   -    pica x phenolic impregnated carbon
+ 04:26   -    ablator
+ 04:27   -    and the ablator part what it is is
+ 04:29   -    there's a
+ 04:30   -    the resin the phenolic resin that makes
+ 04:32   -    up this heat shield
+ 04:33   -    when it gets hot due to the re-entry
+ 04:35   -    heating it breaks down and creates gas
+ 04:38   -    and that gas
+ 04:39   -    comes out through the surface and it
+ 04:40   -    provides a protective layer
+ 04:42   -    and because of this they can get away
+ 04:44   -    with a much thinner and lighter heat
+ 04:46   -    shield
+ 04:47   -    now starship on the other hand is
+ 04:49   -    supposed to be rapidly reusable that is
+ 04:51   -    the dream that this thing can
+ 04:52   -    land it can have a quick inspection and
+ 04:54   -    be put back on top of the launch vehicle
+ 04:57   -    and
+ 04:57   -    head straight back to space and that
+ 05:00   -    means
+ 05:00   -    you can't afford to replace the entire
+ 05:02   -    heat shield every time so you need to
+ 05:04   -    use
+ 05:05   -    an insulating type heat shield that can
+ 05:07   -    handle the very high temperatures
+ 05:08   -    without breaking down and the closest
+ 05:11   -    thing we've seen to that is the space
+ 05:12   -    shuttle and the space shuttle
+ 05:14   -    had a pretty bad reputation for its heat
+ 05:16   -    shield like it was
+ 05:18   -    eternally a problem and indeed they
+ 05:20   -    almost they lost
+ 05:21   -    one vehicle because the heat shield was
+ 05:24   -    damaged and they almost
+ 05:25   -    lost at least a couple of others the
+ 05:28   -    heat shield needed
+ 05:29   -    a lot of inspection and replacement
+ 05:31   -    between flights
+ 05:33   -    so since the space shuttle had such
+ 05:35   -    problems how do we think
+ 05:36   -    that spacex can do the same thing with
+ 05:39   -    starship
+ 05:40   -    but get rid of all the problems well
+ 05:42   -    first of all there's a few things that
+ 05:44   -    are on spacex's side first of all the
+ 05:47   -    space shuttle was mounted on site
+ 05:49   -    side on to a tank and that tank had
+ 05:52   -    flecks of
+ 05:53   -    foam and ice and those would fall off
+ 05:56   -    and impinge on the bottom surface which
+ 05:57   -    is where your heat shield is
+ 05:59   -    like in retrospect it would have made
+ 06:01   -    more sense to mount the space shuttle
+ 06:03   -    upside down on the tank so
+ 06:05   -    the top of the shuttle would be getting
+ 06:06   -    damaged by this stuff but you know
+ 06:09   -    these are the kind of things you learn
+ 06:10   -    after you've flown for a while
+ 06:13   -    spacex don't have this problem with
+ 06:14   -    starship because starship sits on top
+ 06:17   -    the other thing is the space shuttle had
+ 06:19   -    a very complex geometry and the complex
+ 06:22   -    geometry
+ 06:23   -    meant that it needed lots of different
+ 06:25   -    tile designs to cover
+ 06:27   -    the entirety of the vehicle they had if
+ 06:30   -    they had a
+ 06:31   -    tile that needed replaced they had to go
+ 06:33   -    and get that exact
+ 06:34   -    tile from the thousands of different
+ 06:36   -    designs and make sure it was inserted in
+ 06:38   -    there
+ 06:39   -    um there's other problems that the space
+ 06:41   -    shuttle had that
+ 06:43   -    used aluminium which had greater
+ 06:45   -    expansion
+ 06:46   -    than uh the stainless steel that we'll
+ 06:48   -    be seeing on starship
+ 06:50   -    um but yeah the the and the other thing
+ 06:53   -    is that starship
+ 06:54   -    can afford to get warmer underneath or
+ 06:56   -    hotter because it's stainless steel
+ 06:58   -    whereas
+ 06:59   -    the shuttle had an aluminium structure
+ 07:02   -    underneath
+ 07:03   -    so starship's much simpler geometry
+ 07:05   -    means that the majority of the tiles
+ 07:07   -    are these identical hexagonal designs
+ 07:11   -    and
+ 07:11   -    you know to get an idea of how big these
+ 07:13   -    things are they're about the size of
+ 07:14   -    dinner plates i think they're about you
+ 07:16   -    know 12 inches 30 centimeters across
+ 07:19   -    and they are very easy to apply to the
+ 07:22   -    side of the
+ 07:23   -    the structure so you're not going in
+ 07:26   -    and applying strain isolation pads and
+ 07:29   -    then
+ 07:30   -    glue and then spacers and then supports
+ 07:33   -    and then the tile
+ 07:35   -    you're literally going up and there's
+ 07:37   -    mounting pins that have been pre-placed
+ 07:39   -    on there there's a robot
+ 07:40   -    that goes in and welds on these mounting
+ 07:42   -    pins with little uh
+ 07:44   -    spring clips in their head and you
+ 07:46   -    basically just
+ 07:47   -    push the tile on and there are little
+ 07:49   -    holes
+ 07:50   -    in the tile with metal brackets inside
+ 07:53   -    them
+ 07:54   -    and these will clip on and one of the
+ 07:56   -    nice things is that
+ 07:58   -    when it's mounted there's actually some
+ 07:59   -    play in these holes
+ 08:01   -    and because they use three of them the
+ 08:03   -    tile can actually respond as the
+ 08:05   -    structure moves underneath it so it's
+ 08:06   -    not
+ 08:07   -    like uh the space shuttle where they had
+ 08:09   -    to have these fabric
+ 08:11   -    isolation pads to you know stop the
+ 08:14   -    flexing from popping the tile off it's
+ 08:16   -    really it has a lot of freedom to move
+ 08:20   -    there is actually a pad underneath which
+ 08:23   -    we believe
+ 08:24   -    is some kind of ceramic wool design it's
+ 08:26   -    probably made of silica
+ 08:27   -    or alumina fibers it'll probably handle
+ 08:31   -    your temperatures of a thousand degrees
+ 08:32   -    celsius quite easily
+ 08:35   -    but it's not like a primary heat shield
+ 08:38   -    by any means if you lose a tile
+ 08:40   -    i wouldn't rely on this to give you a
+ 08:42   -    significant amount of protection
+ 08:45   -    so anyway yeah a lot of the tiles just
+ 08:46   -    pop on like that the biggest thing is
+ 08:48   -    that you have to
+ 08:50   -    make sure that they're closed as close
+ 08:52   -    together as possible
+ 08:54   -    so that you minimize the amount of heat
+ 08:55   -    coming through these gaps
+ 08:57   -    but not so close that when the vehicle
+ 09:00   -    is in motion that they start
+ 09:01   -    banging together and potentially
+ 09:02   -    breaking
+ 09:04   -    so there are areas where they need to
+ 09:07   -    have
+ 09:08   -    you know slightly irregular patterns
+ 09:10   -    first of all the nose cone
+ 09:12   -    that is a complex structure because it
+ 09:14   -    curves and tapers towards a point
+ 09:17   -    so they have a bunch of different
+ 09:18   -    strategies for slowly shrinking these
+ 09:20   -    rings as they go up
+ 09:22   -    the wings or sorry the fins those have a
+ 09:26   -    whole bunch of very specific shapes on
+ 09:28   -    them and they're being filled in right
+ 09:30   -    now
+ 09:31   -    now only half of starship is being tiled
+ 09:34   -    the back end is only going to get plasma
+ 09:37   -    from the
+ 09:38   -    your trail it's going to get like
+ 09:40   -    reflected heat from the radiate the
+ 09:41   -    thermal radiation
+ 09:43   -    so the stainless steel is actually quite
+ 09:46   -    good at reflecting that
+ 09:47   -    and that's what we'll use now on the
+ 09:48   -    space shuttle you'll notice that the
+ 09:50   -    bottom off
+ 09:51   -    is black because they wanted it to
+ 09:53   -    radiate heat efficiently
+ 09:55   -    the top of it is white because most of
+ 09:57   -    the heat was coming in by thermal
+ 09:58   -    radiation
+ 09:59   -    and so they wanted it to reflect as much
+ 10:01   -    of that as possible that's why the
+ 10:03   -    bottom of the shuttle is black
+ 10:05   -    and the same is true on starship the
+ 10:06   -    bottom is going to be black because
+ 10:08   -    it's going to be re you re-emitting
+ 10:11   -    as much thermal radiation as possible
+ 10:13   -    and the top is going to be reflecting
+ 10:16   -    so anyway the majority of the tiles are
+ 10:18   -    added via this pin method
+ 10:20   -    and it's interesting to note that once
+ 10:22   -    they're attached they can't be removed
+ 10:25   -    from the other side we've seen them
+ 10:26   -    taking them off and they have to go in
+ 10:28   -    with a drill
+ 10:29   -    and use like a coring drill bit to get
+ 10:32   -    access to the clips
+ 10:33   -    so they can then pull them off and
+ 10:35   -    replace them with new ones
+ 10:36   -    now near the front we've also seen that
+ 10:39   -    they're not using pin mounts they're
+ 10:41   -    essentially gluing these things straight
+ 10:43   -    down it looks like the glue is red so
+ 10:44   -    that's consistent with what they used on
+ 10:46   -    the shuttle
+ 10:47   -    so there's that on the nose cone the
+ 10:50   -    other place where they
+ 10:51   -    are doing direct gluing appears to be
+ 10:53   -    along
+ 10:54   -    the the interface on the top
+ 10:58   -    on the wings so the fins have this hinge
+ 11:01   -    mechanism
+ 11:01   -    where they need to be able to rotate and
+ 11:03   -    you don't want to have a gap in there so
+ 11:05   -    there's a cylindrical
+ 11:06   -    shape here which has a bunch of tiles in
+ 11:09   -    it and
+ 11:09   -    they're going to have to have all sorts
+ 11:10   -    of seals here to try and make sure
+ 11:12   -    that the hot gas doesn't flow in there
+ 11:15   -    and potentially damage anything
+ 11:16   -    any of the actuators there is like
+ 11:20   -    mounting hinges at the top that's going
+ 11:21   -    to be a difficult one and elon has
+ 11:23   -    actually talked about using
+ 11:25   -    transpiration cooling the original plan
+ 11:28   -    when the announced starship was becoming
+ 11:30   -    stainless steel was
+ 11:31   -    they originally talked about
+ 11:33   -    transpiration cooling and that's where
+ 11:35   -    you try to get the
+ 11:36   -    insulating effect that the ablator has
+ 11:40   -    but instead of having a chemical
+ 11:41   -    breakdown you literally take your
+ 11:43   -    methane fuel supply or your oxygen it's
+ 11:45   -    methane probably
+ 11:46   -    blow that through tiny pores in the skin
+ 11:49   -    and it forms an insulating layer and
+ 11:50   -    protects you
+ 11:51   -    i think that was dropped because it's
+ 11:54   -    much more complex and it may actually
+ 11:56   -    take more mass to do this but there are
+ 11:58   -    places where it could be useful
+ 11:59   -    it could definitely be useful where
+ 12:01   -    you've got moving parts near these
+ 12:04   -    hinges
+ 12:04   -    and you can blow in high pressure fuel
+ 12:07   -    and just protect the protect these from
+ 12:11   -    high temperature plasma going in
+ 12:13   -    now there's one other thing that helps
+ 12:15   -    starship compared to say the space
+ 12:17   -    shuttle or the x-37
+ 12:19   -    which are reusable vehicles with
+ 12:21   -    reusable heat shields
+ 12:23   -    and that is the fact that starship is
+ 12:24   -    just so darn
+ 12:26   -    big so there's a basic factor
+ 12:30   -    in reentry aerodynamics called
+ 12:33   -    the the radius of curvature so blunt
+ 12:36   -    bodies are the way to go for re-entry
+ 12:38   -    because
+ 12:39   -    the blunter your body right the
+ 12:42   -    clutter the further away the stagnation
+ 12:45   -    point is and the stagnation point is
+ 12:46   -    basically where you've got this
+ 12:48   -    shock wave that is formed just in front
+ 12:50   -    of the body in the layer
+ 12:52   -    the speed of the incoming air has gone
+ 12:54   -    from like hypersonic speeds
+ 12:55   -    down to basically the speed of the
+ 12:57   -    vehicle and it forms the shock wave at
+ 12:59   -    some distance from the surface and
+ 13:00   -    that's where most of your heat is
+ 13:02   -    so you want that to be as far away from
+ 13:04   -    the surface as possible
+ 13:06   -    and the bigger your radius of curvature
+ 13:08   -    the further away
+ 13:10   -    your stagnation point uh your shock wave
+ 13:12   -    gets
+ 13:13   -    so by having starship be so large
+ 13:16   -    this really helps it a whole lot
+ 13:19   -    compared to something like
+ 13:20   -    very small like the x37b which is
+ 13:22   -    absolutely tiny
+ 13:25   -    but you know starship isn't just a
+ 13:26   -    simple cylinder it has other complex
+ 13:29   -    geometry and when you have
+ 13:30   -    changes to the shape this can do all
+ 13:32   -    sorts of interesting things
+ 13:34   -    in terms of generating shock waves
+ 13:36   -    generating hot spots and
+ 13:38   -    they will have done a lot of simulations
+ 13:41   -    to make sure they have the right amount
+ 13:43   -    of thermal protection system
+ 13:45   -    where they expect these spots to be they
+ 13:47   -    will do simulations
+ 13:48   -    in hypersonic wind tunnels they will do
+ 13:51   -    like computational fluid dynamics to try
+ 13:54   -    to understand
+ 13:55   -    before they fly this but flight will be
+ 13:58   -    the ultimate test and there's a lot of
+ 14:00   -    things that could go wrong
+ 14:01   -    i mean first of all you know if there's
+ 14:03   -    any damage to the heat shield at all
+ 14:04   -    they could lose the entire vehicle
+ 14:06   -    during descent and they would like to
+ 14:08   -    know how one way is to have
+ 14:10   -    instrumentation like thermocouples
+ 14:12   -    across the surface to measure
+ 14:13   -    the temperature in different locations
+ 14:15   -    they could actually have cameras like
+ 14:16   -    inside the tanks looking at the inside
+ 14:19   -    surface because
+ 14:20   -    literally the outer wall of the tanks is
+ 14:23   -    the surface of the vehicle so that could
+ 14:24   -    actually give them some clues
+ 14:26   -    but you know in terms of damage i think
+ 14:29   -    it's actually more likely to get damaged
+ 14:31   -    on
+ 14:32   -    ascent because max q typically is the
+ 14:35   -    highest
+ 14:35   -    dynamic pressures that a vehicle will
+ 14:37   -    see that was true the space shuttle
+ 14:39   -    like it was more likely to it was
+ 14:41   -    getting higher like aerodynamic
+ 14:43   -    pressures
+ 14:43   -    on ascent than they did during descent
+ 14:45   -    because
+ 14:46   -    if you think about it they were flying
+ 14:48   -    this sort of like an aerodynamic vehicle
+ 14:51   -    and if they fall down lower your dynamic
+ 14:52   -    pressures the force of the atmosphere
+ 14:54   -    gets higher
+ 14:55   -    but since you can use the lift you can
+ 14:57   -    avoid that happening and keep the
+ 14:59   -    pressures at a low
+ 15:01   -    manageable level so yeah if there's
+ 15:04   -    going to get damaged
+ 15:06   -    most likely to happen during on ascent
+ 15:08   -    where we might see it
+ 15:09   -    rather than descent where we
+ 15:12   -    might not see it i mean you know if i
+ 15:14   -    was like an engineer on this project
+ 15:17   -    i would uh i would build a cubesat right
+ 15:20   -    that would pop
+ 15:20   -    out of the rear out of the skirt fly
+ 15:23   -    backwards with a camera on it and then
+ 15:24   -    have the
+ 15:25   -    starship do a roll around so we could
+ 15:27   -    actually observe
+ 15:28   -    tile damage before descent i think that
+ 15:31   -    would be a cool idea right
+ 15:33   -    but you know that's uh i think that
+ 15:35   -    would probably take them time to develop
+ 15:37   -    but it would be interesting
+ 15:38   -    nevertheless and you know this is
+ 15:40   -    something that was talked about with the
+ 15:42   -    space shuttle during the early launches
+ 15:43   -    they apparently wanted to use
+ 15:46   -    um us photo reconnaissance
+ 15:49   -    satellites to actually observe the heat
+ 15:51   -    shield on the space shuttle
+ 15:53   -    and there supposedly they delayed the
+ 15:56   -    launch or had to
+ 15:57   -    match the shuttle's launch window to the
+ 16:00   -    capabilities of this satellite
+ 16:02   -    um it would be cool if they would do
+ 16:05   -    that with starship but you know
+ 16:06   -    everything is in flux everything
+ 16:08   -    is moving obviously spacex are running
+ 16:11   -    very hard towards getting this vehicle
+ 16:13   -    launched
+ 16:14   -    but the thing that is going to limit
+ 16:16   -    them most likely
+ 16:18   -    is getting the faa to complete its
+ 16:20   -    environmental review because they need
+ 16:22   -    to make sure that the site
+ 16:24   -    is compliant they've gone and scaled it
+ 16:26   -    up from an initial plan to launch falcon
+ 16:28   -    rockets
+ 16:29   -    to now launching big falcon rockets
+ 16:34   -    right or starship so anyway yeah it's
+ 16:37   -    been a marvelous week
+ 16:38   -    there's been so many amazing photos that
+ 16:41   -    have come out of this
+ 16:42   -    and i have i've just been glued to all
+ 16:44   -    of these i
+ 16:45   -    i really once again thanks to everybody
+ 16:47   -    down there
+ 16:48   -    that is are getting these amazing photos
+ 16:50   -    and also you know everyday astronaut
+ 16:52   -    apparently he's just published like part
+ 16:55   -    one of a three-part interview with elon
+ 16:58   -    and uh elon just talking talking talking
+ 17:02   -    and
+ 17:02   -    telling us all sorts of fascinating
+ 17:04   -    little things and the problem is
+ 17:05   -    sometimes he'll say
+ 17:07   -    you know tim will say something and elon
+ 17:10   -    will start thinking it over in his head
+ 17:12   -    and saying oh maybe we shouldn't do that
+ 17:13   -    oh no we can't do it
+ 17:14   -    like it's almost like he's he's
+ 17:17   -    designing
+ 17:18   -    ideas in his head like yeah elon's not
+ 17:21   -    always the best person to
+ 17:23   -    do presentations but the fact that he's
+ 17:25   -    just talking
+ 17:28   -    actually lends this uh a great wonderful
+ 17:31   -    authenticity it's quite enjoyable
+ 17:34   -    and i wish them the best of luck with
+ 17:35   -    this whenever it happens
+ 17:37   -    i'm scott manley fly safe
+ 17:47   -    [Music]
+ 17:59   -    you

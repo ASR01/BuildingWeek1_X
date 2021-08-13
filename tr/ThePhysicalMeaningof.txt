@@ -1,0 +1,394 @@
+Title:	The Physical Meaning of Maxwell's Equations | The Secrets of the Universe
+
+URL:	http://www.youtube.com/watch?v=ia7HsNSrRh4
+
+Views:	43875
+
+Length:	16:26
+
+Positive Reaction:	1582
+
+Negative Reaction:	40
+
+Comments:	137
+
+Negative Reaction:	40
+
+Description:	The Maxwell's Equations are four coupled differential equations that describe the behavior of electric and magnetic fields. Carl Sagan once said, "Maxwell's equations have done more good to mankind than any 10 Presidents combined". This quote shows how important the Maxwell's equations really are. Maxwell himself did not come up with these equations. He combined these 4 equations to prove that light is an electromagnetic wave. In order to understand Maxwell's equations, we must know what is divergence and curl.
+
+1. Gauss' law in electricity: The Gauss' law in electricity states that the the divergence of electric field is directly proportional to the charge density. This law says that isolated positive or negative charges are responsible for electric fields.
+
+2. Gauss' law in magnetism: The Gauss' law in magnetism states that the divergence of magnetic field is zero. This means that magnetic monopoles cannot exist.
+
+3. Faraday's law: One of the most important equations in history, the Faraday's law states that a time varying magnetic field can produce an electric field. 
+
+4. Ampere's law: The Ampere's law gives a relation between the curl of the magnetic field and the current density. There was a theoretical and experimental flaw in Ampere's law. Maxwell corrected Ampere's law by adding another term to it.
+
+If you have any questions, feel free to comment or email me @ rishabhroynakra@gmail.com
+
+Facebook page link: https://www.facebook.com/secretsofuniverse/
+Instagram page link: https://www.instagram.com/the_secrets_of_the_universe/
+website: www.secretsofuniverse.in
+
+Video Licensed:	Yes
+
+Tags:	["Maxwell's Equations", 'Electrodynamics', 'Maxwell Equations', 'Electricity and Magnetism', 'Curl and Divergence', "Gauss' law", "Faraday's law", "Ampere's Law"]
+
+File Title:	ThePhysicalMeaningof.txt
+
+Transcription:
+ 0:0	-	hello my name is rishabh and welcome to
+0:3	-	the channel the secrets of the universe
+0:4	-	today we are going to talk about the
+0:7	-	Maxwell's equations before I start I
+0:10	-	want to quote the famous astronomer
+0:12	-	Calphalon he said that Maxwell's
+0:15	-	equations have done more good to mankind
+0:17	-	than any ten presidents combined now
+0:20	-	this line this code from Carl Sagan
+0:22	-	holds a lot of importance it really
+0:25	-	tells how important these equations are
+0:27	-	now one thing to be noted is that
+0:30	-	Maxwell did not come up with these
+0:32	-	equations he himself did not devise all
+0:35	-	of them
+0:35	-	he just combined these four equations
+0:37	-	and proved that light is actually an
+0:40	-	electromagnetic wave Maxwell's equations
+0:44	-	are the backbone of the classical
+0:46	-	electromagnetism classical optics and
+0:49	-	modern electronics now before we start
+0:53	-	it is very important to know what is the
+0:56	-	physical meaning of the Maxwell's
+0:57	-	equations for that we need to understand
+1:0	-	what is the meaning of divergence and
+1:3	-	the curl
+1:4	-	now divergence and curl once we know
+1:6	-	these two concepts it becomes very easy
+1:9	-	to understand the physical meaning of
+1:11	-	Maxwell's equations so let us start and
+1:14	-	before we start make sure you subscribe
+1:16	-	our channel because I'll keep on
+1:18	-	uploading for more videos on physics so
+1:23	-	a first task is to understand the
+1:25	-	Gauss's law in electricity and magnetism
+1:28	-	in order to understand these two laws we
+1:31	-	need to understand what is the meaning
+1:33	-	of divergence of a vector field now any
+1:37	-	maths textbook will tell you that the
+1:39	-	mathematical formulation of divergence
+1:42	-	is this but we need to understand the
+1:45	-	physical meaning of divergence in order
+1:48	-	to understand the Gauss's law so we
+1:51	-	consider a vector field G depicted by
+1:54	-	these arrows for simplicity I'll assume
+1:57	-	that our G is only along the x direction
+2:0	-	so we cut out these two components of
+2:3	-	the field there is no field along the X
+2:6	-	the Z direction and the y direction and
+2:9	-	there is no change in these fields along
+2:11	-	the z and y directions
+2:13	-	field is only along the x-direction now
+2:16	-	in in our case I have depicted that the
+2:21	-	magnitude of G is increasing along the
+2:25	-	increasing x direction in this field
+2:27	-	assume that the strength of the field or
+2:30	-	the magnitude of the field is directly
+2:32	-	proportional to the length of the arrow
+2:33	-	so as you can see that the arrows are
+2:37	-	here shorter but as they move along the
+2:39	-	X direction the arrows get longer this
+2:42	-	means the strength of our field or the
+2:44	-	magnitude of the field increases in
+2:47	-	order to understand what is divergence
+2:50	-	what we do is we draw an arbitrary
+2:52	-	sphere of any size inside this field it
+2:57	-	is not important to draw a sphere only
+2:59	-	you can draw any arbitrary curve around
+3:2	-	the field as you can see the amount of
+3:5	-	field that is entering the sphere is
+3:7	-	less as compared to what is coming
+3:10	-	outside the field this means that there
+3:13	-	is some source that is causing the field
+3:16	-	to diverge inside the sphere so the
+3:19	-	amount of field that is going inside is
+3:21	-	less as compared to what is coming
+3:23	-	outside this is known as the positive
+3:26	-	divergence now since G has increased as
+3:30	-	it was going in in the X direction we
+3:33	-	said that the derivative of G with
+3:35	-	respect to X is greater than zero and
+3:38	-	hence it is known as the positive
+3:40	-	divergence when we plug in this value
+3:42	-	over here in the second case you can see
+3:46	-	that as our field is going in the X
+3:49	-	direction the length of the arrow is
+3:51	-	decreasing hence the magnitude or the
+3:54	-	strength of the field is also decreasing
+3:56	-	to understand divergence what we do is
+3:59	-	we again draw an arbitrary sphere around
+4:2	-	the field as you can see the amount of
+4:6	-	field that is going inside the sphere is
+4:8	-	more than what is coming outside this
+4:11	-	means that there is some sink inside
+4:13	-	that sphere that is causing our field to
+4:16	-	decrease in magnitude and hence this is
+4:19	-	known as the negative divergence now
+4:22	-	since G has decreased as it was going
+4:25	-	along the x direction
+4:27	-	we say that the derivative of G with
+4:29	-	respect to X is less than zero and when
+4:32	-	we plug this over here we will find that
+4:35	-	the divergence of G is negative in the
+4:38	-	third case I have shown the case of zero
+4:41	-	divergence so what we have is we again
+4:44	-	draw an arbitrary sphere over here as
+4:46	-	you can see the amount of field that is
+4:49	-	going inside is exactly equal to the
+4:52	-	amount of field that is coming outside
+4:54	-	so this means that nothing is disturbing
+4:56	-	our field inside the sphere there is no
+4:59	-	source or sink that can affect our field
+5:2	-	since G remains constant as it was going
+5:5	-	along X we say that the divergence of
+5:8	-	the field in this case is exactly zero
+5:11	-	so having understood the physical
+5:13	-	meaning of divergence we are ready to
+5:16	-	finally understand what the Gauss's law
+5:18	-	in electricity and magnetism means in
+5:21	-	electricity Gauss law the mathematical
+5:23	-	form is this now this constant is not
+5:26	-	important to understand the physical
+5:27	-	meaning of Gauss law so we can set this
+5:30	-	to unity this actually is there to
+5:33	-	balance the units of the equation Rho is
+5:37	-	known as the charge density and E is the
+5:40	-	electric field and this is of course the
+5:43	-	divergence now if I have a positive
+5:46	-	charge like this you know that from a
+5:50	-	positive charge the electric field lines
+5:52	-	go outside like this so I have a
+5:57	-	positive charge which is from where the
+6:0	-	electric field lines are coming out and
+6:2	-	of course I have also have a negative
+6:4	-	charge which is far away from this
+6:6	-	charge the positive charge the electric
+6:8	-	field lines go inside like this
+6:12	-	what Gauss's law really tells is that
+6:15	-	the divergence of electric field is
+6:18	-	directly proportional to the charge
+6:20	-	density so if I draw an imaginary sphere
+6:23	-	around this positive charge we can see
+6:26	-	that more field lines are going outside
+6:29	-	the sphere then what are coming inside
+6:32	-	this means that there is the net
+6:35	-	positive charge around this sphere so
+6:37	-	there is some source of electric field
+6:41	-	that is emanating the field outside the
+6:43	-	sphere now what happens in case of the
+6:46	-	negative charge in case of the negative
+6:49	-	charge as you can see all the field
+6:51	-	lines are coming in this direction so
+6:54	-	what if we draw an imaginary sphere
+6:56	-	around the negative charge you can see
+6:59	-	that more field lines are entering this
+7:1	-	sphere then water coming outside of the
+7:4	-	sphere so there is some sink inside this
+7:7	-	region that is causing the Magne that is
+7:10	-	attracting all the electric field lines
+7:12	-	towards this region now in important
+7:15	-	property of the Gauss's law says that
+7:18	-	there can exist separate electric
+7:21	-	charges positive and negative both
+7:24	-	positive and negative electric charges
+7:26	-	are what caused the electric fields they
+7:31	-	can exist in separate they can have
+7:33	-	separate existence the positive and the
+7:35	-	negative electric charges but what
+7:38	-	happens when I draw a positive and a
+7:40	-	negative charge together like this for
+7:43	-	example in an electric dipole and I draw
+7:46	-	the imaginary sphere around this point
+7:48	-	now what will be the right-hand side of
+7:51	-	this equation it will be 0 why because
+7:55	-	the positive charge contributes positive
+8:0	-	charge density and the negative charge
+8:2	-	contributes negative charge density
+8:4	-	these two exactly cancel out each other
+8:6	-	because Rho is equivalent to the net
+8:10	-	charge that is inside that region so
+8:12	-	these two exactly cancel out each other
+8:15	-	and we get zero in the case of magnetism
+8:19	-	the story becomes a little bit different
+8:21	-	what is the source of magnetic field you
+8:24	-	will say magnet okay so we draw a magnet
+8:28	-	around here with the North and South
+8:29	-	Pole we know that the magnetic field
+8:32	-	lines outside the magnet start from the
+8:35	-	north and end at the sound like this now
+8:46	-	in the case of magnetism we again draw
+8:49	-	our imaginary sphere like this you can
+8:53	-	see that
+8:54	-	ammount of magnetic field that is going
+8:56	-	inside the sphere is exactly equal to
+8:59	-	amount of magnetic field that is coming
+9:1	-	outside hence the net divergence of
+9:5	-	magnetic field is zero why is this so
+9:8	-	because North and South Pole always come
+9:11	-	in pairs one is acting as a source of
+9:14	-	magnetic field because it has positive
+9:16	-	divergence the field lines are coming
+9:19	-	outside and the other is acting as a
+9:21	-	think of the magnetic field because it
+9:24	-	has negative divergence something is
+9:26	-	going in so in the case of magnetism the
+9:31	-	divergence of magnetic field is zero and
+9:33	-	this is what is the Gauss's law in
+9:35	-	magnetism this also means that like the
+9:39	-	electric field like the electricity
+9:41	-	where we can have positive and negative
+9:44	-	charges separately we cannot have North
+9:47	-	and South Poles separately if that was
+9:51	-	the case that is if I had North Pole
+9:53	-	separate and South Poles separate North
+9:57	-	Pole is giving off the magnetic field
+10:0	-	and South Pole is acting as a sync to
+10:2	-	the magnetic field then the right-hand
+10:5	-	side of this equation would not be zero
+10:8	-	it would be something else
+10:9	-	hence the mean magnetism the Gauss's law
+10:12	-	says that there can be no magnetic
+10:15	-	monopoles if you even cut a magnet into
+10:18	-	two halves you won't have a separate
+10:20	-	North and South Pole what you will have
+10:22	-	is two magnets with separate pairs of
+10:25	-	North and South Poles now the third one
+10:29	-	in our list is the Faraday's law
+10:32	-	I personally regard this as the equation
+10:35	-	that really changed the course of
+10:36	-	history because it tells how the
+10:38	-	electric and magnetic fields are linked
+10:41	-	with each other theoretically so in
+10:44	-	order to understand what the Faraday's
+10:46	-	law actually means we need to understand
+10:48	-	what is the meaning of curl so imagine
+10:51	-	we have a field again we are assuming
+10:54	-	that the length of the arrow actually
+10:56	-	signifies actually signifies the
+10:58	-	strength of the field so our field is
+11:1	-	stronger at the top and as we go down it
+11:4	-	is decreasing in its strength
+11:6	-	if you place a
+11:7	-	stick in here like this at the top of
+11:11	-	the stick since the field is very strong
+11:14	-	it will tend it will exert more of
+11:16	-	effect on the upper end than at the
+11:18	-	lower end so what will happen is the
+11:21	-	feel the stick will tend to rotate
+11:23	-	because the amount of effect the effect
+11:26	-	that is on the upper end is more than
+11:28	-	what is at the lower end and the stick
+11:32	-	we tend to rotate like this it will
+11:33	-	experience some sort of torque it will
+11:36	-	rotate and this is what actually the
+11:38	-	curl of a vector field signifies curl
+11:41	-	actually represents curl at a particular
+11:43	-	point in a vector field actually
+11:45	-	represents how much turning effect would
+11:48	-	it produce if you were present at that
+11:51	-	point so in terms of Faraday's law
+11:54	-	imagine you have a round metallic ring
+11:56	-	and you pass a time varying magnetic
+12:0	-	field through it now what this time
+12:3	-	varying magnetic field will do is it
+12:5	-	will induce an electric field around
+12:8	-	this ring and when you see that the
+12:11	-	electric field has been induced it will
+12:13	-	cause the electrons to flow in this
+12:17	-	metallic ring and you will have a
+12:19	-	current not the negative sign signifies
+12:22	-	that the induced current is in such a
+12:25	-	direction so as to oppose a change in
+12:28	-	the magnetic field so Faraday's law
+12:31	-	actually gives a relation between a
+12:33	-	changing magnetic field and the induced
+12:35	-	electric field now the last of the four
+12:38	-	equations is the ampere Maxwell law the
+12:42	-	mathematical form of ampere Maxwell law
+12:44	-	is this I have just excluded the
+12:46	-	constants over here because we are
+12:49	-	concerned with the physical meaning of
+12:51	-	this equation the curl of the magnetic
+12:53	-	field is directly proportional to the
+12:56	-	current density over here which I have
+12:59	-	depicted with J imagine you have a
+13:2	-	current carrying wire and you draw a
+13:5	-	very small imaginary circle around this
+13:9	-	wire that this equation says that around
+13:13	-	this current carrying wire the magnetic
+13:16	-	field will have a curling direction it
+13:19	-	will flow like this
+13:20	-	now there is a very prominent
+13:23	-	theoretical and experimental flaw in
+13:25	-	this equation first I will explain the
+13:28	-	theoretical one vector calculus tells us
+13:31	-	that the divergence of curl must be zero
+13:34	-	so if I take the divergence on both
+13:38	-	sides of this equation
+13:39	-	I must have zero on both sides
+13:42	-	divergence of the curl is zero okay from
+13:45	-	the left hand side this implies that
+13:48	-	then Lord J should also be zero that is
+13:51	-	the divergence or the current density
+13:53	-	should also be 0 but the continuity
+13:56	-	equation in electro dynamics says that
+13:59	-	the curl of the Magna carte density is
+14:3	-	equal to negative of the rate of change
+14:7	-	of charge density this means that the
+14:10	-	divergence of current density is nonzero
+14:13	-	this is a paradoxical situation because
+14:15	-	it is violating the left and right hand
+14:18	-	side of this equation left hand side is
+14:20	-	zero but the right hand side the
+14:22	-	divergence of J is nonzero
+14:24	-	this was the theoretical flow in terms
+14:27	-	of the experimental flow consider
+14:30	-	charging a capacitor now I have drawn an
+14:34	-	imaginary shape which starts from
+14:37	-	outside the capacitor goes inside and
+14:40	-	ends up again over here it is a closed
+14:43	-	loop current is entering the side one
+14:46	-	but it is not leaving side two because
+14:49	-	inside the capacitor current does not
+14:52	-	flow so we have a net divergence of J
+14:56	-	the net divergence of J is to be
+15:1	-	considered over here
+15:2	-	this was the turret experimental flow
+15:5	-	the only thing that is changing inside
+15:8	-	the capacitor is the electric field as
+15:10	-	the charge is accumulating on this phase
+15:12	-	the electric field is changing inside
+15:15	-	the capacitor with time so Maxwell says
+15:18	-	if we add another term 1 by C square
+15:22	-	Kerli ebike early t to the right-hand
+15:26	-	side of the amperes law
+15:28	-	now I'm again adding the unit over here
+15:30	-	because I just added the unit here so
+15:33	-	he's
+15:34	-	that if you add this term on the
+15:36	-	right-hand side it will perfectly
+15:38	-	balance the equation both theoretically
+15:41	-	and experimentally this term has added a
+15:45	-	beautiful symmetry to the Maxwell's
+15:47	-	equations Faraday's law told that with
+15:50	-	the changing magnetic field with time we
+15:53	-	had a curling electric field here if you
+15:57	-	have a changing electric field with time
+15:59	-	you have a curling magnetic field this
+16:2	-	is the level of symmetry we have
+16:4	-	achieved in Maxwell's equations by
+16:6	-	adding this term so this was all about
+16:9	-	the Maxwell's equations make sure you
+16:12	-	subscribe our channel and asked
+16:14	-	questions regarding any topic of physics
+16:18	-	thank you

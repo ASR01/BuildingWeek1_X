@@ -1,0 +1,251 @@
+Title:	Vectors | Chapter 1, Essence of linear algebra
+
+URL:	https://www.youtube.com/watch?v=fNk_zzaMoSs
+
+Views:	4638768
+
+Length:	9:52
+
+Positive Reaction:	89251
+
+Negative Reaction:	582
+
+Comments:	2466
+
+Negative Reaction:	582
+
+Description:	Beginning the linear algebra series with the basics.
+Help fund future projects: https://www.patreon.com/3blue1brown
+An equally valuable form of support is to simply share some of the videos.
+Home page: https://www.3blue1brown.com/
+
+Typo correction: At 6:52, the screen shows
+[x1, y1] + [x2, y2] = [x1+y1, x2+y2]. 
+Of course, this should actually be 
+[x1, y1] + [x2, y2] = [x1+x2, y1+y2].
+
+Full series: http://3b1b.co/eola
+
+Future series like this are funded by the community, through Patreon, where supporters get early access as the series is being produced.
+http://3b1b.co/support
+
+If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then "add subtitles/cc".  I really appreciate those who do this, as it helps make the lessons accessible to more people.
+
+Music: https://vincerubinetti.bandcamp.com/track/grants-etude
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).
+
+If you are new to this channel and want to see more, a good place to start is this playlist: https://goo.gl/WmnCQZ
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3Blue1Brown
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Reddit: https://www.reddit.com/r/3Blue1Brown
+
+Video Licensed:	Yes
+
+Tags:	['three brown one blue', 'brown', 'one', 'math', 'blue', 'linear algebra', '3brown1blue', 'vectors', '3 brown 1 blue', 'three', '3b1b', 'mathematics']
+
+File Title:	VectorsChapter1Essen.txt
+
+Transcription:
+ 0:00	-	"The introduction of numbers as coordinatesis an act of violence."
+0:09	-	—Hermann Weyl
+0:11	-	The fundamental, root-of-it-all building blockfor linear algebra is the vector, so it's
+0:16	-	worth
+0:17	-	making sure that we're all on the same pageabout what exactly a vector is.
+0:19	-	You see, broadly
+0:21	-	speaking there are three distinct but relatedideas about vectors, which I'll call the physics
+0:25	-	student perspective, the computer sciencestudent perspective, and the mathematician's
+0:29	-	perspective.
+0:30	-	The physics student perspective is that vectorsare arrows pointing in space.
+0:35	-	What defines a given
+0:36	-	vector is its length, and the direction it'spointing in, but as long as those two facts
+0:40	-	are the
+0:41	-	same, you can move it all around and it'sstill the same vector.
+0:44	-	Vectors that live in the flat plane
+0:45	-	are two-dimensional, and those sitting inbroader space that you and I live in are three-dimensional.
+0:51	-	The computer science perspective is that vectorsare ordered lists of numbers.
+0:56	-	For example, let's
+0:57	-	say that you were doing some analytics abouthouse prices, and the only features you cared
+1:01	-	about
+1:02	-	were square footage and price.
+1:03	-	You might model each house with a pair ofnumbers: the first
+1:06	-	indicating square footage, and the secondindicating price.
+1:09	-	Notice that the order matters here.
+1:12	-	In the lingo, you'd be modelling houses astwo-dimensional vectors, where in this context,
+1:17	-	"vector" is pretty much just a fancy wordfor "list", and what makes it two-dimensional
+1:21	-	is the fact
+1:22	-	that the length of that list is 2.
+1:25	-	The mathematician, on the other hand, seeksto generalise both of these views, basically
+1:30	-	saying that
+1:31	-	a vector can be anything where there's a sensiblenotion of adding two vectors, and multiplying
+1:35	-	a
+1:36	-	vector by a number, operations that I'll talkabout later on in this video.
+1:39	-	The details of this view
+1:40	-	are rather abstract, and I actually thinkit's healthy to ignore it until the last video
+1:44	-	of this
+1:45	-	series, favoring a more concrete setting inthe interim,
+1:48	-	but the reason that I bring it up here isthat it hints at the fact that ideas of vector
+1:52	-	addition
+1:53	-	and multiplication by numbers will play animportant role throughout linear algebra.
+1:58	-	But before I talk about those operations,let's just settle in on a specific thought
+2:01	-	to have in mind
+2:02	-	when I say the word "vector".
+2:04	-	Given the geometric focus that I'm shootingfor here, whenever I
+2:07	-	introduce a new topic involving vectors, Iwant you to first think about an arrow—and
+2:12	-	specifically,
+2:13	-	think about that arrow inside a coordinatesystem, like the x-y plane, with its tail
+2:18	-	sitting at the origin.
+2:19	-	This is a little bit different from the physicsstudent perspective, where vectors can freely
+2:23	-	sit
+2:24	-	anywhere they want in space.
+2:25	-	In linear algebra, it's almost always thecase that your vector will be
+2:28	-	rooted at the origin.
+2:30	-	Then, once you understand a new concept inthe context of arrows in space,
+2:35	-	we'll translate it over to the list-of-numberspoint-of-view, which we can do by considering
+2:39	-	the coordinates of the vector.
+2:41	-	Now while I'm sure that many of you are familiarwith this coordinate system, it's worth walking
+2:45	-	through explicitly, since this is where allof the important back-and-forth happens between
+2:50	-	the two
+2:51	-	perspectives of linear algebra.
+2:52	-	Focusing our attention on two dimensions forthe moment, you have a
+2:55	-	horizontal line, called the x-axis, and avertical line, called the y-axis.
+3:00	-	The place where they
+3:01	-	intersect is called the origin, which youshould think of as the center of space and
+3:04	-	the root of all vectors.
+3:06	-	After choosing an arbitrary length to represent1, you make tick-marks on each axis to
+3:10	-	represent this distance.
+3:12	-	When I want to convey the idea of 2-D spaceas a whole, which you'll see
+3:15	-	comes up a lot in these videos, I'll extendthese tick-marks to make grid-lines, but right
+3:19	-	now
+3:20	-	they'll actually get a little bit in the way.
+3:22	-	The coordinates of a vector is a pair of numbersthat
+3:25	-	basically give instructions for how to getfrom the tail of that vector—at the origin—to
+3:29	-	its tip.
+3:30	-	The first number tells you how far to walkalong the x-axis—positive numbers indicating
+3:35	-	rightward
+3:36	-	motion, negative numbers indicating leftwardmotion—and the second number tell you how
+3:39	-	far to walk
+3:40	-	parallel to the y-axis after that—positivenumbers indicating upward motion, and negative
+3:45	-	numbers
+3:46	-	indicating downward motion.
+3:48	-	To distinguish vectors from points, the conventionis to write this pair
+3:51	-	of numbers vertically with square bracketsaround them.
+3:56	-	Every pair of numbers gives you one and onlyone vector, and every vector is associated
+4:01	-	with one and
+4:02	-	only one pair of numbers.
+4:04	-	What about in three dimensions?
+4:05	-	Well, you add a third axis, called the z-axis,
+4:09	-	which is perpendicular to both the x- andy-axes, and in this case each vector is associated
+4:14	-	with an ordered triplet of numbers: the firsttells you how far to move along the x-axis,
+4:19	-	the second
+4:20	-	tells you how far to move parallel to they-axis, and the third one tells you how far
+4:24	-	to then move
+4:25	-	parallel to this new z-axis.
+4:28	-	Every triplet of numbers gives you one uniquevector in space, and
+4:32	-	every vector in space gives you exactly onetriplet of numbers.
+4:37	-	So back to vector addition, and multiplicationby numbers.
+4:40	-	After all, every topic in linear algebra
+4:42	-	is going to center around these two operations.
+4:45	-	Luckily, each one is pretty straightforwardto define.
+4:48	-	Let's say we have two vectors, one pointingup, and a little to the right, and the other
+4:52	-	one
+4:53	-	pointing right, and down a bit.
+4:54	-	To add these two vectors, move the secondone so that its tail sits
+4:58	-	at the tip of the first one; then if you drawa new vector from the tail of the first one
+5:04	-	to where
+5:05	-	the tip of the second one now sits, that newvector is their sum.
+5:12	-	This definition of addition, by the way, ispretty much the only time in linear algebra
+5:16	-	where we let
+5:17	-	vectors stray away from the origin.
+5:19	-	Now why is this a reasonable thing to do?—Whythis definition of addition and not some other
+5:23	-	one?
+5:25	-	Well the way I like to think about it is thateach vector represents a certain movement—a
+5:30	-	step with
+5:31	-	a certain distance and direction in space.
+5:34	-	If you take a step along the first vector,
+5:36	-	then take a step in the direction and distancedescribed by the second vector, the overall
+5:40	-	effect is
+5:41	-	just the same as if you moved along the sumof those two vectors to start with.
+5:45	-	You could think about this as an extensionof how we think about adding numbers on a
+5:48	-	number line.
+5:50	-	One way that we teach kids to think aboutthis, say with 2+5, is to think of moving
+5:54	-	2 steps to the
+5:55	-	right, followed by another 5 steps to theright.
+5:58	-	The overall effect is the same as if you justtook
+6:00	-	7 steps to the right.
+6:02	-	In fact, let's see how vector addition looksnumerically.
+6:06	-	The first vector
+6:07	-	here has coordinates (1,2), and the secondone has coordinates (3,-1).
+6:14	-	When you take the vector sum
+6:15	-	using this tip-to-tail method, you can thinkof a four-step path from the origin to the
+6:20	-	tip of the
+6:21	-	second vector: "walk 1 to the right, then2 up, then 3 to the right, then 1 down."
+6:26	-	Re-organising
+6:27	-	these steps so that you first do all of therightward motion, then do all of the vertical
+6:31	-	motion,
+6:32	-	you can read it as saying, "first move 1+3to the right, then move 2+(-1) up," so the
+6:40	-	new vector has
+6:41	-	coordinates 1+3 and 2+(-1).
+6:45	-	In general, vector addition in this list-of-numbersconception looks
+6:49	-	like matching up their terms, and adding eachone together.
+6:55	-	The other fundamental vector operation ismultiplication by a number.
+6:58	-	Now this is best understood
+6:59	-	just by looking at a few examples.
+7:02	-	If you take the number 2, and multiply itby a given vector, it
+7:05	-	means you stretch out that vector so thatit's 2 times as long as when you started.
+7:10	-	If you multiply
+7:11	-	that vector by, say, 1/3, it means you squishit down so that it's 1/3 of the original length.
+7:17	-	When you multiply it by a negative number,like -1.8, then the vector first gets flipped
+7:23	-	around,
+7:24	-	then stretched out by that factor of 1.8.
+7:27	-	This process of stretching or squishing orsometimes reversing the direction of a vector
+7:31	-	is called "scaling",
+7:33	-	and whenever you catch a number like 2 or1/3 or -1.8 acting like this—scaling some
+7:39	-	vector—you call it a "scalar".
+7:41	-	In fact, throughout linear algebra, one ofthe main things that
+7:44	-	numbers do is scale vectors, so it's commonto use the word "scalar" pretty much interchangeably
+7:50	-	with the word "number".
+7:52	-	Numerically, stretching out a vector by afactor of, say, 2, corresponds to
+7:56	-	multiplying each of its components by thatfactor, 2, so in the conception of vectors
+8:01	-	as
+8:02	-	lists of numbers, multiplying a given vectorby a scalar means multiplying each one of
+8:06	-	those components by that scalar.
+8:10	-	You'll see in the following videos what Imean when I say that linear algebra topics
+8:14	-	tend to revolve
+8:15	-	around these two fundamental operations: vectoraddition, and scalar multiplication; and I'll
+8:20	-	talk
+8:21	-	more in the last video about how and why themathematician thinks only about these operations,
+8:25	-	independent and abstracted away from howeveryou choose to represent vectors.
+8:29	-	In truth, it doesn't
+8:30	-	matter whether you think about vectors asfundamentally being arrows in space—like
+8:34	-	I'm suggesting
+8:35	-	you do—that happen to have a nice numericalrepresentation, or fundamentally as lists
+8:39	-	of numbers
+8:40	-	that happen to have a nice geometric interpretation.
+8:42	-	The usefulness of linear algebra has lessto do with
+8:44	-	either one of these views than it does withthe ability to translate back and forth between
+8:49	-	them.
+8:50	-	It gives the data analyst a nice way to conceptualisemany lists of numbers in a visual way,
+8:55	-	which can seriously clarify patterns in data,and give a global view of what certain operations
+8:59	-	do,
+9:00	-	and on the flip side, it gives people likephysicists and computer graphics programmers
+9:04	-	a language
+9:05	-	to describe space and the manipulation ofspace using numbers that can be crunched and
+9:10	-	run through a computer.
+9:12	-	When I do math-y animations, for example,I start by thinking about what's actually
+9:16	-	going on in
+9:17	-	space, and then get the computer to representthings numerically, thereby figuring out where
+9:21	-	to
+9:22	-	place the pixels on the screen, and doingthat usually relies on a lot of linear algebra
+9:25	-	understanding.
+9:27	-	So there are your vector basics, and in thenext video I'll start getting into some pretty
+9:31	-	neat
+9:32	-	concepts surrounding vectors, like span, bases,and linear dependence.
+9:36	-	See you then!
+9:42	-	Captioned by Navjivan Pal

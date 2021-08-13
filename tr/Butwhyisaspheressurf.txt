@@ -1,0 +1,248 @@
+Title:	But why is a sphere's surface area four times its shadow?
+
+URL:	http://www.youtube.com/watch?v=GNcFjFmqEc8
+
+Views:	4574064
+
+Length:	17:1
+
+Positive Reaction:	94451
+
+Negative Reaction:	1653
+
+Comments:	3988
+
+Negative Reaction:	1653
+
+Description:	The formula is no mere coincidence.
+Help fund future projects: https://www.patreon.com/3blue1brown
+An equally valuable form of support is to simply share some of the videos.
+Special thanks to these supporters: http://3b1b.co/sphere-thanks
+
+Discussion on Reddit: https://www.reddit.com/r/3Blue1Brown/comments/a2gqo0/but_why_is_a_spheres_surface_area_four_times_its/
+
+The first proof goes back to Greek times, due to Archimedes, who was charmed by the fact that a sphere has 2/3 the volume of a cylinder encompassing it, and 2/3 the surface area as well (if you consider the caps).  Check out this video for another beautiful animation of that first proof:
+https://youtu.be/KZJw0AYn6_k
+
+Calculus series:
+http://3b1b.co/calculus
+
+Thanks to these folks for letting me use their images at the end:
+https://www.youtube.com/user/vlogbrothers
+https://www.youtube.com/user/physicswoman
+https://www.youtube.com/user/Vsauce
+https://www.youtube.com/user/onemeeeliondollars
+
+------------------
+
+These animations are largely made using manim, a scrappy open source python library:  https://github.com/3b1b/manim
+
+If you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.
+
+Music by Vincent Rubinetti.
+Download the music on Bandcamp:
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+
+Stream the music on Spotify:
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then "add subtitles/cc".  I really appreciate those who do this, as it helps make the lessons accessible to more people.
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Instagram: https://www.instagram.com/3blue1brown_animations/
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+
+Video Licensed:	Yes
+
+Tags:	['Mathematics', 'three blue one brown', '3 blue 1 brown', '3b1b', '3brown1blue', '3 brown 1 blue', 'three brown one blue', 'sphere', 'geometry', 'calculus']
+
+File Title:	Butwhyisaspheressurf.txt
+
+Transcription:
+ 0:03	-	Some of you may have seen in school that thesurface area of a sphere is 4pi*R^2, a suspiciously
+0:09	-	suggestive formula given that it’s an cleanmultiple of pi*R^2, the area of a circle with
+0:15	-	the same radius. But have you ever wonderedwhy is this true? And I don’t just mean
+0:20	-	proving this 4pi*R^2 formula, I mean viscerallyfeeling a connection between this surface
+0:26	-	area, and these four circles.
+0:29	-	How lovely would it be if there was some shiftin perspective that showed how you could nicely
+0:33	-	and perfectly fit these four circles ontothe sphere’s surface? Nothing can be quite
+0:39	-	that simple, since the curvature of a sphere’ssurface is different from the curvature of
+0:43	-	a flat plane, which is why trying to fit paperaround a sphere doesn’t really work. Nevertheless,
+0:51	-	I’d like to show you two ways of thinkingabout this surface area connecting it in a
+0:56	-	satisfying way to these circles. The firstis a classic, one of the true gems of geometry
+1:02	-	all students should experience. The secondline of reasoning is something of my own which
+1:10	-	draws a more direct line between the sphereand its shadow.
+1:14	-	And lastly I’ll share why this four-foldrelation is not unique to spheres, but is
+1:19	-	instead one specific instance of a much moregeneral fact for all convex shapes in 3d.
+1:26	-	Starting with a birds eye view here, the ideafor the first approach is to show that the
+1:29	-	surface area of the sphere is the same asthe area of a cylinder with the same radius
+1:35	-	and the same height as the sphere. Or rather,a cylinder without its top and bottom, what
+1:40	-	you might call the “label” of that cylinder.With that, we can unwrap that label to understand
+1:46	-	it as a simple rectangle.
+1:49	-	The width of this rectangle comes from thecylinder’s circumference, so it’s 2*pi*R,
+1:55	-	and the height comes from the height of thesphere, which is 2R. This already gives the
+2:01	-	formula, 4pi*R^2, but in the spirit of mathematicalplayfulness it’s nice to see how four circles
+2:08	-	with radius R fit into this. The idea is thatyou can unwrap each circle into a triangle,
+2:16	-	without changing its area, and fit these nicelyonto our unfolded cylinder label. More on
+2:22	-	that in a bit.
+2:23	-	The more pressing question is why on earththe sphere can be related to the cylinder.
+2:28	-	This animation is already suggestive of howthis works. The idea is to approximate the
+2:35	-	area of the sphere with many tiny rectanglescovering it, and to show how if you project
+2:41	-	those little rectangles directly outward,as if casting a shadow by little lights positioned
+2:46	-	on the z-axis pointing parallel to the xyplane, the projection of each rectangle on
+2:52	-	the cylinder, quite surprisingly, ends uphaving the same area as the original rectangle.
+2:58	-	But why should that be? Well, there are twocompeting effects at play here. For one of
+3:05	-	these rectangles, let’s call the side alongthe latitude lines its width, and the side
+3:09	-	along the longitude lines its height. On theone hand, as this rectangle is projected outward,
+3:15	-	its width will get scaled up. For rectanglestowards the poles, that length is scaled quite
+3:23	-	a bit, since they’re projected over a longerdistance. For those closer to the equator,
+3:31	-	less so
+3:34	-	But on the other hand, because these rectanglesare at a slant with respect to the z-direction,
+3:39	-	during this projection the height of eachsuch rectangle will get scaled down. Think
+3:45	-	about holding some flat object and lookingat its shadow. As you reorient that object,
+3:50	-	the shadow looks more or less squished forsome angles. Those rectangles towards the
+3:55	-	poles are quite slanted in this way, so theirheight gets squished a lot. For those closer
+4:02	-	to the equator, less so.
+4:07	-	It will turn out that these two effects, ofstretching the width and squishing the height,
+4:13	-	cancel each other out perfectly.
+4:16	-	Already as a rough sketch, wouldn’t youagree this is a very pretty way of reasoning?
+4:20	-	Of course, the meat here comes from showingwhy these two competing effects on each rectangle
+4:25	-	cancel out perfectly. In some ways, the detailsfleshing this out are just as pretty as the
+4:29	-	zoomed out structure of the full argument.
+4:34	-	Let me go ahead and cut away half the sphereso we get get a better look. For any mathematical
+4:39	-	problem solving it never hurts to start bygiving names to things. Let’s say the radius
+4:44	-	of the sphere is R. Focus on one specificrectangle, and let’s call the distance between
+4:50	-	our rectangle and the z-axis is d. You couldcomplain that this distance d is a little
+4:56	-	ambiguous depending on which point of therectangle you’re going from, but for tinier
+5:01	-	and tinier rectangles that ambiguity willbe negligible. And tinier and tinier is when
+5:07	-	this approximation-with-rectangles gets closerto the true surface area anyway. To choose
+5:12	-	an arbitrary standard let’s say d is thedistance from the bottom of the rectangle.
+5:17	-	To think about projecting out to the cylinder,picture two similar triangles. This first
+5:24	-	one shares its base with the base of the rectangleon the sphere, and has a tip at the same height
+5:30	-	on the z-axis a distance d-away. The secondis a scaled up version of this, scaled so
+5:37	-	that it just barely reaches the cylinder,meaning its long side now has length R. So
+5:43	-	the ratio of their bases, which is how muchour rectangle’s width gets stretched out,
+5:48	-	is R/d.
+5:52	-	What about the height? How precisely doesthat get scaled down as we project? Again,
+5:57	-	let’s slice a cross section here. In fact,why don’t we go ahead and completely focus
+6:02	-	our view to this 2d cross section.
+6:05	-	To think about the projection, let’s makea little right triangle like this, where what
+6:10	-	was the height of our spherical rectangleis the hypotenuse, and its projection is one
+6:15	-	of the legs. Pro tip, anytime you’re doinggeometry with circles or spheres, keep at
+6:21	-	the forefront of your mind that anything tangentto the circle is perpendicular to the radius
+6:26	-	drawn to that point of tangency. It’s crazyhow helpful that one little fact can be. Once
+6:34	-	we draw that radial line, together with thedistance d we have another right triangle.
+6:41	-	Often in geometry, I like to imagine tweakingthe parameters of a setup and imagining how
+6:45	-	the relevant shapes change; this helps tomake guesses about what relations there are.
+6:51	-	In this case, you might predict that the twotriangles I’ve drawn are similar to each
+6:55	-	other, since their shapes change in concertwith each other. This is indeed true, but
+7:01	-	as always, don’t take my word for it, seeif you can justify this for yourself.
+7:06	-	Again, it never hurts to give more names tothings. Maybe call this angle alpha and this
+7:12	-	one beta. Since this is a right triangle,you know that alpha + beta + 90 degrees = 180
+7:20	-	degrees. Now zoom in to our little triangle,and see if we can figure out its angles. You
+7:28	-	have 90 degrees + beta + (some angle) forminga straight line. So that little angle must
+7:40	-	be alpha. This lets us fill in a few morevalues, revealing that this little triangle
+7:47	-	has the same angles, alpha and beta, as thebig one. So they are indeed similar.
+7:53	-	Deep in the weeds it’s sometimes easy toforget why we’re doing this. We want to
+7:59	-	know how much the height of our sphere-rectanglegets squished during this projection, which
+8:04	-	is the ratio of this hypotenuse to the legon the right. By the similarity with the big
+8:11	-	triangle, that ratio is R/d.
+8:14	-	So indeed, as this rectangle gets projectedoutward onto the cylinder, the effect of stretching
+8:20	-	out the width is perfectly canceled out byhow much the height gets squished due to the
+8:25	-	slant.
+8:26	-	As a fun sidenote, you might notice that itlooks like the projected rectangle is a 90
+8:31	-	degree rotation of the original. This wouldnot be true in general, but by a lovely coincidence,
+8:37	-	the way I’m parametrizing the sphere resultsin rectangles where the ratio of the width
+8:42	-	the the height starts out as d to R. So forthis very specific case, rescaling the width
+8:48	-	by R/d and the height by d/R actually doeshave the same effect as a 90 degree rotation.
+8:57	-	This lends itself to a rather bizarre wayto animate the relation, where instead of
+9:00	-	projecting each rectangular piece, you rotateeach one and rearrange them to make the cylinder.
+9:12	-	Now, if you’re really thinking critically,you might still not be satisfied that this
+9:20	-	shows that the surface area of the sphereequals the area of this cylinder label since
+9:24	-	these little rectangles only approximate therelevant areas. Well, the idea is that this
+9:29	-	approximation gets closer and closer to thetrue value for finer and finer coverings.
+9:35	-	Since for any specific covering, the sphererectangles have the same area as the cylinder
+9:40	-	rectangles, whatever values each of thesetwo series of approximations are approaching
+9:45	-	must actually be the same.
+9:47	-	I mean, as you get really aggressively philosophicalabout what we even mean by surface area, these
+9:53	-	sorts of rectangular approximations and notjust aids in our problem-solving toolbox,
+9:57	-	they end up serving as a way of rigorouslydefining the area of smooth curved surfaces.
+10:05	-	This kind of reasoning is essentially calculus,just stated without any of the jargon. In
+10:09	-	fact, I think neat geometric arguments likethis, which require no background in calculus
+10:14	-	to understand, can serve as a great way totee things up for new calculus students so
+10:19	-	that they have the core ideas before seeingthe definitions which make them precise, rather
+10:24	-	than the other way around.Unfold circle
+10:28	-	So as I said before, if you’re itching tosee a direct connection to four circles, one
+10:34	-	nice way is to unwrap these circles into triangles.If this is something you haven’t seen before,
+10:40	-	I go into much more detail about why thisworks in the first video of the calculus series.
+10:45	-	The basic idea is to relate thin concentricrings of the circle with horizontal slices
+10:51	-	of this triangle. Because that circumferenceof each such ring increases linearly in proportion
+10:57	-	to the radius, always 2pi times that radius,when you unwrap them all and line them up,
+11:03	-	their ends will form a straight line, givingyou a triangle with a base of 2pi*R, and a
+11:11	-	height of R, as opposed to some other curvedshape.
+11:13	-	And four of these unwrapped circles fit intoour rectangle, which is in some sense an unwrapped
+11:19	-	version of the sphere’s surface.Second proof
+11:23	-	Nevertheless, you might wonder if there’sa way than this to relate the sphere directly
+11:28	-	to a circle with the same radius, rather thangoing through this intermediary of the cylinder.
+11:32	-	I do have a proof for you to this effect,leveraging a little trigonometry, though I
+11:37	-	have to admit I still think the comparisonto the cylinder wins out on elegance.
+11:40	-	I’m a big believer that the best way toreally learn math is to do problems yourself,
+11:47	-	which is a bit hypocritical coming from achannel essentially consisting of lectures.
+11:50	-	So I’m going to try something a little differenthere and present the proof as a heavily guided
+11:55	-	sequence of exercises. Yes, I know that’sless fun and it means you have to pull out
+12:00	-	some paper to do some work, but I guaranteeyou’ll get more out of it this way.
+12:06	-	The approach will be to cut the sphere intomany rings parallel to the xy plane, and to
+12:12	-	compare the area of these rings to the areaof their shadows on the xy plane. All the
+12:19	-	shadows of the rings from the northern hemispheremake up a circle with the same radius as the
+12:23	-	sphere, right? The main idea will be to showa correspondence between these ring shadows,
+12:29	-	and every other ring on the sphere. Challengemode here is to pause now and see if you can
+12:35	-	predict how that might go.
+12:38	-	We’ll label each one of these rings basedon the angle theta between a line from the
+12:44	-	sphere’s center to the ring and the z-axis.So theta ranges from 0 to 180 degrees, which
+12:54	-	is to say from 0 to pi radians. And let’scall the change in angle from one ring to
+12:59	-	the next d-theta, which means the thicknessof one of these rings with be the radius,
+13:05	-	R, times d-theta.
+13:06	-	Alright, structured exercise time. We’llease in with a warm-up
+13:12	-	Question #1: What is the circumference ofthis ring at the inner edge, in terms of R
+13:19	-	and theta? Go ahead and multiply your answerthe thickness R*d-theta to get an approximation
+13:28	-	for this ring’s area; and approximationthat gets better and better as you chop up
+13:32	-	the sphere more and more finely.
+13:36	-	At this point, if you know your calculus,you could integrate. But our goal is not just
+13:42	-	to find the answer, it’s to feel the connectionbetween the sphere its shadow. So…
+13:49	-	Question #2: What is the area of the shadowof one of these rings on the xy-plane? Again,
+13:55	-	expressed in terms of R, theta and d-theta.
+14:09	-	Question #3: Each of these ring shadows hasprecisely half the area of one of these rings
+14:16	-	on the sphere. It’s not the one at angletheta straight above it, but another one.
+14:23	-	Which one?(As a hint, you might want to reference some
+14:26	-	trig identities)Question #4: I said in the outset there is
+14:37	-	a correspondence between all the shadows fromthe northern hemisphere, which make up a circle
+14:41	-	with radius R, and every other ring on thesphere. Use your answer to the last question
+14:47	-	to spell out exactly what that correspondenceis.
+14:57	-	Question #5: Bring it on home, why does thisimply that the area of the circle is exactly
+15:01	-	¼ the surface area of the sphere, particularlyas we consider thinner and thinner rings?
+15:08	-	If you want answers or hints, I’m quitesure people in the comments and on reddit
+15:12	-	will have them waiting for you.
+15:15	-	And finally, I’d be remiss not to make abrief mention of the fact that the surface
+15:19	-	area of a sphere is a specific instance ofa much more general fact: If you take any
+15:25	-	convex shape, and look at the average areaof all its shadows, averaged over all possible
+15:31	-	orientations in 3d space, the surface areaof the solid will be precisely 4 times that
+15:37	-	average shadow area.
+15:39	-	As to why this is true, I’ll leave thosedetails for another day.
+15:47	-	Hey, given the time of year I thought I’dtake a moment to let you know about some new
+15:54	-	additions to the 3blue1brown store. Asidefrom the usual fare, like shirts, mugs and
+15:59	-	posters, there are now some Fourier Seriessocks, which show certain periodic functions
+16:04	-	graphed on a cylinder, the way all periodicfunctions wish they were graphed.
+16:08	-	And, by popular demand, there are the plushiepi creatures, both ordinary and extra plushified.
+16:14	-	I’ll admit that I was initially skepticalwhen people asked about them, because, you
+16:19	-	know, what would you do with one, exactly?But after getting them, and seeing the pictures
+16:24	-	people would send, what I realized is theybasically serve the same function as a flag.
+16:29	-	Just instead of representing loyalty to acountry, or even to the channel per se, it’s
+16:34	-	to math, and the idea that math has some personalityto it, more so than it often gets credit for.

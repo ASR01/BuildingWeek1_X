@@ -1,0 +1,260 @@
+Title:	Why are Submarines Black and Cruise Ships White?
+
+URL:	https://www.youtube.com/watch?v=5uhUS5SKieI
+
+Views:	2541572
+
+Length:	7:2
+
+Positive Reaction:	56217
+
+Negative Reaction:	1359
+
+Comments:	2200
+
+Negative Reaction:	1359
+
+Description:	If you have previously heard of explanations on why submarines are black, well, you need to watch this video. It's not what you think!
+
+Footage courtesy of U.S. Navy used under the Creative Commons Attribution license. Thank you for that!
+
+Note: "The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement."
+
+REFERENCES: 
+https://www.navysbir.com/n16_1/N161-044.htm 
+http://www.navsource.org/archives/08/08492.htm
+http://makeyourdepth.blogspot.com/2006/03/call-me-steely-blue.html
+https://www.todayifoundout.com/index.php/2011/12/the-natural-color-of-rubber-is-white/#:~:text=Rubber%20is%20made%20black%20by,desirable%20qualities%20of%20the%20rubber
+https://en.wikipedia.org/wiki/HMS_Vanguard_and_Le_Triomphant_submarine_collision
+https://en.wikipedia.org/wiki/HMS_Torbay_(S90) 
+https://www.ripublication.com/ijaerspl2019/ijaerv14n2spl_36.pdf
+https://core.ac.uk/download/pdf/77039181.pdf
+https://web.archive.org/web/20060912112754/http://www.thesun.co.uk/article//0,,2006130027,00.html
+https://www.nature.com/articles/212284a0
+https://www.researchgate.net/publication/288826949_Economic_Anechoic_Chamber_Materials_with_Polyester_Acoustic_Sponge_Matrix/link/5ffc8a2645851553a039e8fe/download
+https://link.springer.com/article/10.1186/s13640-018-0372-9
+
+Video Licensed:	Yes
+
+Tags:	['not what you think', 'Submarine', 'anechoic tiles', 'anechoic', 'camouflage', 'Pearl Harbor', 'HMS Torbay', 'Microsoft Windows', 'HMS Vanguard', 'sonar', 'carbon black', 'rubber', 'sound absorption', 'cuprous oxide']
+
+File Title:	Why_are_Submarines_B.txt
+
+Transcription:
+ 00:00   -    what if we were to tell you that modern
+ 00:02   -    submarines are black
+ 00:03   -    for the same reason the tires and your
+ 00:05   -    car are black
+ 00:06   -    that's right but before the rubber meets
+ 00:09   -    the road we need to talk about
+ 00:10   -    submarines and camouflage
+ 00:13   -    before the invention of nuclear power
+ 00:15   -    submarines actually spent more time on
+ 00:17   -    the surface than underwater
+ 00:19   -    and so camouflaging was essential during
+ 00:22   -    world war 1
+ 00:23   -    the united states conducted experiments
+ 00:25   -    in order to protect their submarines
+ 00:27   -    against visual detection
+ 00:29   -    the results showed that for a surfaced
+ 00:31   -    submarine
+ 00:32   -    a light gray hull with black decks
+ 00:35   -    provided as good of a visual protection
+ 00:37   -    as any other method but in the mid 30s
+ 00:40   -    another issue arose as it became
+ 00:42   -    apparent that submerged submarines
+ 00:44   -    can be observed by aircraft flying over
+ 00:46   -    them as long as the submarines were not
+ 00:48   -    too deep down
+ 00:50   -    looking for a solution the united states
+ 00:52   -    conducted another series of tests
+ 00:54   -    in 1937 at pearl harbor as part of the
+ 00:58   -    experiments
+ 00:58   -    submarines were painted black dark blue
+ 01:01   -    purple
+ 01:01   -    green and various other combination of
+ 01:04   -    colors
+ 01:04   -    the conclusion was that dark blue
+ 01:07   -    offered the best concealment
+ 01:08   -    in deep clear tropical waters and the
+ 01:11   -    commander ordered his division to
+ 01:13   -    repaint the submarine's
+ 01:14   -    dark blue but as the camouflage testing
+ 01:17   -    continued
+ 01:17   -    a new problem surfaced as the blue paint
+ 01:20   -    deteriorated after application
+ 01:22   -    and acquired a lighter milky tone in the
+ 01:25   -    end the decision to paint submarines
+ 01:27   -    black
+ 01:27   -    was made due to the superior durability
+ 01:30   -    of black paint
+ 01:31   -    and not because of black color's
+ 01:33   -    camouflaging characteristics
+ 01:35   -    fast forwarding to 2006 the royal navy
+ 01:39   -    painted hms torbay a new shade called
+ 01:42   -    steely blue
+ 01:43   -    as after conducting exhaustive trials
+ 01:45   -    and lab tests
+ 01:46   -    they found out that black was the worst
+ 01:48   -    low-key color
+ 01:49   -    to deceive the enemy while black color
+ 01:52   -    did perform in darker north atlantic
+ 01:54   -    waters
+ 01:55   -    in brighter seas the new blue shade was
+ 01:57   -    twice as hard to spot
+ 01:59   -    hms torbay was sent on a six-month
+ 02:02   -    secret mission to test out this new
+ 02:04   -    color and it was expected that the
+ 02:05   -    entire fleet of royal navy submarines
+ 02:08   -    would be repainted
+ 02:09   -    steely blue but something must have been
+ 02:11   -    discovered during the testing of the
+ 02:13   -    steely blue shade as the royal navy's
+ 02:16   -    newest astute-class submarines are still
+ 02:18   -    black
+ 02:19   -    here is a random fact hms torbay was the
+ 02:22   -    first british warship to be controlled
+ 02:24   -    using microsoft windows operating system
+ 02:26   -    which was the
+ 02:28   -    i wonder if that's what steely blue
+ 02:31   -    looks like
+ 02:32   -    here comes the interesting part it
+ 02:33   -    appears that most modern submarines
+ 02:36   -    are not painted at all instead they're
+ 02:38   -    covered with anechoic tiles which happen
+ 02:40   -    to be black
+ 02:42   -    anechoic tiles are predominantly made of
+ 02:44   -    rubber that contains
+ 02:45   -    thousands of tiny voids which have two
+ 02:47   -    unique properties
+ 02:48   -    they absorb the sound waves of active
+ 02:50   -    sonar thereby reducing its effective
+ 02:53   -    range
+ 02:53   -    and they also decrease the sound emitted
+ 02:56   -    from the vessel itself
+ 02:57   -    like engine noises which reduces
+ 02:59   -    detection range by passive sonar
+ 03:02   -    just to give you an idea about the sound
+ 03:03   -    absorption properties of the anechoic
+ 03:05   -    tiles
+ 03:06   -    back in 2009 hms vanguard and french
+ 03:09   -    navy's triumphant were traveling at low
+ 03:11   -    speeds in the atlantic ocean
+ 03:13   -    the anechoic tiles were so effective
+ 03:16   -    that neither submarine's passive sonar
+ 03:18   -    detected the other submarine
+ 03:20   -    resulting in them colliding into one
+ 03:22   -    another
+ 03:23   -    anechoic tiles were first used by
+ 03:25   -    germans as early as 1940
+ 03:27   -    under u-boats by 1970 soviets
+ 03:31   -    started covering their submarines by 4
+ 03:33   -    inch or 10 centimeter thick rubber tiles
+ 03:36   -    and that helped reduce the akula class
+ 03:38   -    submarine's acoustic signature
+ 03:40   -    by 10 to 20 decibels by the 1980s
+ 03:43   -    both the royal navy and the us navy
+ 03:46   -    started utilizing the anechoic tiles
+ 03:48   -    but why are the anechoic tiles black
+ 03:51   -    answering this question
+ 03:53   -    is key to understanding why modern
+ 03:55   -    submarines are black
+ 03:57   -    anechoic tiles are typically made of
+ 03:59   -    rubber but believe it or not
+ 04:01   -    rubber's natural color is white for
+ 04:03   -    instance
+ 04:04   -    over a century ago all the tires on cars
+ 04:06   -    were actually white
+ 04:08   -    just like this ford model t which begs
+ 04:10   -    the question
+ 04:11   -    if rubber is white why are tires black
+ 04:14   -    and it's time to say it's not what you
+ 04:17   -    think
+ 04:18   -    what makes tires black is the addition
+ 04:20   -    of carbon black to the rubber
+ 04:22   -    carbon black is often used as color
+ 04:24   -    pigment in paints
+ 04:26   -    but tires are black not for cosmetic
+ 04:28   -    reasons
+ 04:29   -    but because adding carbon black to the
+ 04:31   -    rubber mixture
+ 04:32   -    increases the tensile strength and the
+ 04:34   -    roadway abrasion resistance of the tire
+ 04:37   -    by over 10 times
+ 04:38   -    in fact carbon black is mainly used as a
+ 04:41   -    reinforcing filler
+ 04:42   -    due to its unique property of making
+ 04:44   -    things more durable
+ 04:45   -    and this is why all rubber products
+ 04:47   -    where tensile and abrasion wear
+ 04:49   -    properties are important
+ 04:50   -    contain carbon black and thus are black
+ 04:53   -    in color
+ 04:54   -    carbon black is also the reason why
+ 04:56   -    black paint is much more durable than
+ 04:58   -    other colors
+ 04:59   -    but we are not quite done with carbon
+ 05:01   -    black since a submarine experiences
+ 05:03   -    extreme pressure differences as it
+ 05:05   -    submerges and resurfaces
+ 05:07   -    the anechoic tiles are under a lot of
+ 05:09   -    pressure so using carbon black filler in
+ 05:12   -    the rubber mixture
+ 05:13   -    makes a lot of sense moreover research
+ 05:15   -    shows that carbon black reinforced
+ 05:17   -    rubber has the best sound absorption
+ 05:19   -    performance
+ 05:20   -    when compared to rubbers that use other
+ 05:22   -    reinforcing fillers
+ 05:24   -    while the exact composition of anechoic
+ 05:26   -    tiles used on submarines is not public
+ 05:28   -    knowledge
+ 05:29   -    during our research of academic papers
+ 05:32   -    we found that the amount of carbon black
+ 05:34   -    added to the mixture
+ 05:35   -    influences the tile's sound absorption
+ 05:37   -    properties
+ 05:38   -    since various parts of the submarine
+ 05:40   -    produce different sound frequencies
+ 05:42   -    a variety of different and echoic tiles
+ 05:44   -    are attached to the different parts of
+ 05:46   -    the submarine
+ 05:47   -    if you're interested in the research
+ 05:49   -    check out the references in the video
+ 05:50   -    description
+ 05:51   -    but one last question remains if dark
+ 05:54   -    blue
+ 05:54   -    is the best camouflage color why not
+ 05:56   -    paint the anechoic tiles
+ 05:58   -    dark blue and also why are the bottoms
+ 06:00   -    of some submarines
+ 06:01   -    red well the exact details around the
+ 06:04   -    stealth properties of submarines are not
+ 06:06   -    publicly available
+ 06:07   -    north korea and iran paint their
+ 06:09   -    submarines green
+ 06:10   -    and israel paints theirs blue go figure
+ 06:13   -    but
+ 06:14   -    there might be a dilemma about painting
+ 06:16   -    submarines in general
+ 06:18   -    if you paint the tiles it seems to
+ 06:20   -    negatively impact the sonar stealth
+ 06:22   -    properties of the submarine
+ 06:24   -    but if you don't paint them organic life
+ 06:26   -    like algae and barnacles will slowly
+ 06:28   -    cover
+ 06:29   -    the bottom of the submarine which over
+ 06:31   -    time has a similar negative
+ 06:32   -    impact that said if the bottom is to be
+ 06:35   -    painted
+ 06:36   -    anti-fouling paint such as cupro's oxide
+ 06:39   -    is used a red chemical compound which
+ 06:41   -    slows down the growth of organisms which
+ 06:44   -    is why the bottom of submarines and
+ 06:45   -    ships in general
+ 06:47   -    is red oh and the cruise ships are white
+ 06:49   -    or mostly white
+ 06:50   -    because that's a color that best
+ 06:52   -    reflects the sun's energy
+ 06:53   -    keeping air conditioning costs to a
+ 06:55   -    minimum this video was brought to you by
